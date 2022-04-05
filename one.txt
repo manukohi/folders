@@ -4,9 +4,4 @@ edited this fle
 added new
 content
 to the existing file
-<<<<<<< HEAD
-kajajfka
-ajffskfjfsdj
-=======
 
->>>>>>> 922d6f942e36963d2e5703af1da0c421738f3d48
