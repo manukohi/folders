@@ -1,0 +1,6 @@
+second file has been
+created for the 
+new branch1
+need to commit this branch
+master to branch1
+
